@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Michael Cheung
+# 👋 Hi, I'm Satoshi Kobayashi
 
 🚀 **Senior Blockchain Developer | Full Stack Developer | Android Developer**  
-🌍 Based in Hong Kong | Passionate about Web3, Blockchain, and modern web/mobile apps  
+🌍 Based in Japan | Passionate about Web3, Blockchain, and modern web/mobile apps  
 
 ---
 
