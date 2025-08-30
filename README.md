@@ -35,8 +35,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamddobson3&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamddobson3&layout=compact&theme=tokyonight)
 
 ---
 
