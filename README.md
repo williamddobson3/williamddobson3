@@ -1,50 +1,82 @@
-# 👋 Hi, I'm Satoshi Kobayashi
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&width=700&lines=Hi+I'm+佐藤+健太+%F0%9F%91%8B;AI+%7C+Web+%7C+Android+Engineer" alt="Typing SVG"/>
+</p>
 
-🚀 **Senior Blockchain Developer | Full Stack Developer | Android Developer**  
-🌍 Based in Japan | Passionate about Web3, Blockchain, and modern web/mobile apps  
-
----
-
-## 🛠 Skills & Tech Stack
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4" alt="Profile views"/>
+</p>
 
 ---
 
-## 🌟 About Me
-- Building **secure, scalable blockchain apps** and **modern web & mobile solutions**  
-- Strong **full-stack development** experience: frontend → backend → cloud → blockchain  
-- Open to **freelance projects, collaborations, and open-source contributions**  
+## 💡 About Me
+- 🚀 **7+ years** building AI, Web, and Android apps  
+- 🤖 AI/ML: NLP, automation, computer vision  
+- 🌐 Web: React, Next.js, Node.js, Django  
+- 📱 Android: Kotlin, Java, Flutter  
+- 💻 Passionate about **clean code**, **innovative solutions**, and **impactful projects**  
 
 ---
 
-## 📫 Contact Me
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ErosPhoenix)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/experiencedev_84057)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamddobson3@gmail.com)
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+---
+
+## 🌟 Projects Showcase
+
+<p align="center">
+  <a href="https://github.com/yourusername/AI-Chatbot">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="AI Chatbot"/>
+  </a>
+  <a href="https://github.com/yourusername/Ecommerce-App">
+    <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200" alt="E-commerce App"/>
+  </a>
+  <a href="https://github.com/yourusername/Fitness-App">
+    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" alt="Fitness App"/>
+  </a>
+</p>
+
+<p align="center">
+  AI Chatbot | Full-stack E-commerce App | Android Fitness Tracker
+</p>
 
 ---
 
 ## 📈 GitHub Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamddobson3&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamddobson3&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&layout=compact" />
+</p>
 
 ---
 
-## 💡 Currently Working On
-- Decentralized applications (Web3)  
-- Blockchain smart contracts with Solidity  
-- Full stack web & Android apps  
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:williamddobson3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/ErosPhoenix">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/experiencedev_84057">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-✨ *“I combine blockchain expertise with full stack skills to deliver reliable, future-ready solutions.”*
+> "I create solutions that are **innovative, impactful, and delightful**."
