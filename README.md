@@ -1,85 +1,74 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF5733&width=800&lines=Hi+I'm+佐藤+健太+%F0%9F%91%8B;AI+%7C+Web+%7C+Android+Engineer;Creating+Innovative+&+Impactful+Projects" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF5733&width=800&lines=Hi+I'm+佐藤+健太+%F0%9F%91%8B;AI+%7C+Web+%7C+Android+Engineer;Creating+Innovative+3D+Projects" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4" alt="Profile views"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="3D floating AI Sphere"/>
 </p>
 
 ---
 
-## 💡 About Me
+## 🛠 3D Skill Cubes (Simulated with GIFs)
+
 <p align="center">
-I am an AI, Web, and Android engineer with **7+ years of experience**, passionate about creating **cutting-edge technology solutions** that solve real-world problems. I specialize in AI/ML, full-stack web development, and Android apps.
+  <a href="#">
+    <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="150" alt="AI Cube"/>
+  </a>
+  <a href="#">
+    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="150" alt="Web Cube"/>
+  </a>
+  <a href="#">
+    <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="150" alt="Android Cube"/>
+  </a>
+</p>
+
+<p align="center">
+  AI Cube | Web Cube | Android Cube
 </p>
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 🌟 Projects Showcase
+## 🌟 3D Project Showcase
 
 <p align="center">
 <a href="https://github.com/yourusername/AI-Chatbot" target="_blank">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="AI Chatbot"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="220" alt="AI Chatbot 3D"/>
 </a>
 <a href="https://github.com/yourusername/Ecommerce-App" target="_blank">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200" alt="E-commerce App"/>
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="220" alt="E-commerce App 3D"/>
 </a>
 <a href="https://github.com/yourusername/Fitness-App" target="_blank">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" alt="Fitness App"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="220" alt="Fitness App 3D"/>
 </a>
 </p>
 
 <p align="center">
-<strong>AI Chatbot</strong> | <strong>Full-stack E-commerce</strong> | <strong>Android Fitness Tracker</strong>
+AI Chatbot | E-commerce App | Android Fitness Tracker
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
+## 📈 3D GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&layout=compact" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
 </p>
 
 ---
 
-## 📫 Contact Me
-
+## 📫 Contact Me (3D Buttons)
 <p align="center">
-<a href="mailto:williamddobson3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://t.me/ErosPhoenix">
-  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://discord.com/users/experiencedev_84057">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+  <a href="mailto:williamddobson3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/ErosPhoenix">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/experiencedev_84057">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-> 💬 "I create solutions that are **innovative, impactful, and delightful**, combining AI, Web, and Android technologies to solve real problems."
+> 💬 *“I create solutions that are innovative, impactful, and delightful, blending AI, Web, and Android technologies in 3D style.”*
