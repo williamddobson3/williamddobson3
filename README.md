@@ -1,74 +1,67 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF5733&width=800&lines=Hi+I'm+佐藤+健太+%F0%9F%91%8B;AI+%7C+Web+%7C+Android+Engineer;Creating+Innovative+3D+Projects" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="3D floating AI Sphere"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF5733&width=800&lines=Hi+I'm+佐藤+健太+%F0%9F%91%8B;AI+%7C+Web+%7C+Android+Engineer;Creating+Innovative+3D+Solutions" alt="Typing SVG"/>
 </p>
 
 ---
 
-## 🛠 3D Skill Cubes (Simulated with GIFs)
+## 🎯 Mission
+> "I combine AI, Web, and Android technologies to create **innovative, interactive, and high-impact projects** that solve real problems and delight users."
 
+---
+
+## 🌌 My World
+- 🚀 AI & Machine Learning: NLP, Automation, Computer Vision  
+- 🌐 Web Development: React, Next.js, Node.js, Django  
+- 📱 Android Development: Kotlin, Java, Flutter  
+- ☁️ Cloud & DevOps: AWS, Firebase, Docker  
+- 🛠 Tools & Automation: Git, Zapier, n8n, OpenAI API  
+
+---
+
+## 🧩 Core Strengths (3D Concept)
 <p align="center">
-  <a href="#">
-    <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="150" alt="AI Cube"/>
-  </a>
-  <a href="#">
-    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="150" alt="Web Cube"/>
-  </a>
-  <a href="#">
-    <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="150" alt="Android Cube"/>
-  </a>
+  ![AI Cube](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)  
+  ![Web Cube](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)  
+  ![Android Cube](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)
 </p>
 
+AI Cube | Web Cube | Android Cube
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **AI Chatbot** | Intelligent chatbot with NLP and automated responses | Python, OpenAI GPT-4, Flask | [GitHub](https://github.com/yourusername/AI-Chatbot) |
+| **E-commerce Web App** | Full-stack e-commerce platform with secure payments | React, Next.js, Node.js, MySQL | [GitHub](https://github.com/yourusername/Ecommerce-App) |
+| **Android Fitness Tracker** | Android app for real-time fitness tracking | Kotlin, Firebase, Google Fit API | [GitHub](https://github.com/yourusername/Fitness-App) |
+
+---
+
+## 📊 GitHub Universe
 <p align="center">
-  AI Cube | Web Cube | Android Cube
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&layout=compact)
 </p>
 
 ---
 
-## 🌟 3D Project Showcase
-
+## 💬 Let’s Connect
 <p align="center">
-<a href="https://github.com/yourusername/AI-Chatbot" target="_blank">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="220" alt="AI Chatbot 3D"/>
-</a>
-<a href="https://github.com/yourusername/Ecommerce-App" target="_blank">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="220" alt="E-commerce App 3D"/>
-</a>
-<a href="https://github.com/yourusername/Fitness-App" target="_blank">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="220" alt="Fitness App 3D"/>
-</a>
-</p>
-
-<p align="center">
-AI Chatbot | E-commerce App | Android Fitness Tracker
+  ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) williamddobson3@gmail.com  
+  ![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white) @ErosPhoenix  
+  ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) experiencedev_84057
 </p>
 
 ---
 
-## 📈 3D GitHub Stats
+## ⚡ Fun Section (3D Personal Touch)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  ![Fun AI](https://media.giphy.com/media/3oEjHLzm4BCF8zfPy0/giphy.gif)  
+  ![Web Dev Fun](https://media.giphy.com/media/3o7TKxQXHTbEDLlhDi/giphy.gif)  
+  ![Android Fun](https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif)
 </p>
 
----
-
-## 📫 Contact Me (3D Buttons)
-<p align="center">
-  <a href="mailto:williamddobson3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/ErosPhoenix">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/experiencedev_84057">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
----
-
-> 💬 *“I create solutions that are innovative, impactful, and delightful, blending AI, Web, and Android technologies in 3D style.”*
+> "Work hard, innovate harder, and always bring creativity into every project."
