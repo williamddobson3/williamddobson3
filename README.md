@@ -1,45 +1,37 @@
 # 👋 Hi, I'm Satoshi Kobayashi
 ### AI | Web | Android Engineer
 
-![Profile Banner](https://images.unsplash.com/photo-1561948953-6f7d3b8f4a6f)
+![Profile Banner](https://images.unsplash.com/photo-1561948953-6f7d3b8f4a6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
 
 ---
 
 ## 🚀 About Me
-I'm a passionate **Full-Stack and AI Engineer** with experience in building **web applications, Android apps, and AI solutions**. I enjoy **solving complex problems, automating workflows, and creating unique digital experiences**.
+I'm a passionate **Full-Stack and AI Engineer** with experience in building **web applications, Android apps, and AI solutions**.  
+I enjoy **solving complex problems, automating workflows, and creating unique digital experiences**.
 
-- 🌐 7+ years of professional experience in software development
+- 🌐 8+ years of professional experience in software development
 - 🤖 AI & Machine Learning development
 - 📱 Android & Web application development
 - ⚡ Experienced in API integration, automation, and blockchain
 
 ---
 
-## 🛠️ Tech Stack
-
-| AI / ML | Web | Mobile | Tools & Others |
-|---------|-----|--------|----------------|
-| Python, PyTorch, TensorFlow | HTML, CSS, JavaScript, React, Node.js | Kotlin, Java, Flutter | Git, Docker, Firebase, OpenAI API |
-| NLP, Computer Vision | REST API, GraphQL | Android SDK | Jira, Figma, Notion |
-
----
-
 ## 🌟 Featured Projects
 
 ### 1. **AI Chatbot Platform**
-![AI Chatbot](https://images.unsplash.com/photo-1561948953-6f7d3b8f4a6f)
+![AI Project](https://images.unsplash.com/photo-1561948953-6f7d3b8f4a6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)
 - Built a chatbot using **GPT-based AI**
 - Integrated with **web and Android platforms**
 - Real-time **conversational AI with user-friendly interface**
 
 ### 2. **Web Automation Tool**
-![Web Automation](https://images.unsplash.com/photo-1518770660439-4636190af475)
+![Web Project](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)
 - Automates data scraping and reporting
 - Built with **Python, Selenium, and REST APIs**
 - Generates **reports in PDF & Excel formats**
 
 ### 3. **Android Fitness App**
-![Android App](https://images.unsplash.com/photo-1501594907355-3e9e8a0b0e7b)
+![Android Project](https://images.unsplash.com/photo-1501594907355-3e9e8a0b0e7b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)
 - Tracks user workouts & diet
 - Built with **Kotlin** and **Firebase backend**
 - Push notifications, analytics, and smooth UI
