@@ -27,7 +27,7 @@ I'm a passionate **Full-Stack and AI Engineer** with experience in building **we
 ## 🌟 Featured Projects
 
 ### 1. **AI Chatbot Platform**
-![AI Chatbot](https://images.unsplash.com/photo-1561948953-6f7d3b8f4a6f)
+![AI Chatbot]([https://images.unsplash.com/photo-1561948953-6f7d3b8f4a6f](https://www.workitdaily.com/media-library/artificial-intelligence-ai-technology-concept.jpg?id=34199573&width=1200&height=800&quality=85&coordinates=84%2C0%2C84%2C0))
 - Built a chatbot using **GPT-based AI**
 - Integrated with **web and Android platforms**
 - Real-time **conversational AI with user-friendly interface**
