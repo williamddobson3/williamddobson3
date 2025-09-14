@@ -1,61 +1,60 @@
-# 👋 Hi, I'm Satoshi Kobayashi
-### AI | Web | Android Engineer
+# 👋 Hi, I'm **Satoshi Kobayashi**
 
-![Profile Banner](https://images.unsplash.com/photo-1561948953-6f7d3b8f4a6f)
+## 🧠 AI | 🌐 Web | 📱 Android Engineer
 
----
-
-## 🚀 About Me
-I'm a passionate **Full-Stack and AI Engineer** with experience in building **web applications, Android apps, and AI solutions**. I enjoy **solving complex problems, automating workflows, and creating unique digital experiences**.
-
-- 🌐 8+ years of professional experience in software development
-- 🤖 AI & Machine Learning development
-- 📱 Android & Web application development
-- ⚡ Experienced in API integration, automation, and blockchain
+Welcome to my GitHub profile! I'm passionate about building innovative solutions across various domains.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| AI / ML | Web | Mobile | Tools & Others |
-|---------|-----|--------|----------------|
-| Python, PyTorch, TensorFlow | HTML, CSS, JavaScript, React, Node.js | Kotlin, Java, Flutter | Git, Docker, Firebase, OpenAI API |
-| NLP, Computer Vision | REST API, GraphQL | Android SDK | Jira, Figma, Notion |
+### AI & Machine Learning
+- **Languages:** `Python`, `R`
+- **Frameworks:** `TensorFlow`, `PyTorch`, `Scikit-learn`
+- **Tools:** `OpenCV`, `NLTK`, `spaCy`
+
+### Web Development
+- **Frontend:** `React`, `Vue.js`, `HTML5`, `CSS3`, `JavaScript`
+- **Backend:** `Node.js`, `Express`, `Django`
+- **Databases:** `MongoDB`, `PostgreSQL`
+
+### Android Development
+- **Languages:** `Kotlin`, `Java`
+- **Frameworks:** `Jetpack Compose`, `Room`, `Retrofit`
+- **Tools:** `Android Studio`, `Firebase`
 
 ---
 
-## 🌟 Featured Projects
+## 🔧 Tools & Platforms
 
-### 1. **AI Chatbot Platform**
-![AI Chatbot]([https://images.unsplash.com/photo-1561948953-6f7d3b8f4a6f](https://www.workitdaily.com/media-library/artificial-intelligence-ai-technology-concept.jpg?id=34199573&width=1200&height=800&quality=85&coordinates=84%2C0%2C84%2C0))
-- Built a chatbot using **GPT-based AI**
-- Integrated with **web and Android platforms**
-- Real-time **conversational AI with user-friendly interface**
-
-### 2. **Web Automation Tool**
-![Web Automation](https://images.unsplash.com/photo-1518770660439-4636190af475)
-- Automates data scraping and reporting
-- Built with **Python, Selenium, and REST APIs**
-- Generates **reports in PDF & Excel formats**
-
-### 3. **Android Fitness App**
-![Android App](https://images.unsplash.com/photo-1501594907355-3e9e8a0b0e7b)
-- Tracks user workouts & diet
-- Built with **Kotlin** and **Firebase backend**
-- Push notifications, analytics, and smooth UI
+- **Version Control:** `Git`, `GitHub`
+- **CI/CD:** `GitHub Actions`, `Jenkins`
+- **Containerization:** `Docker`
+- **Cloud:** `AWS`, `Google Cloud Platform`
+- **Project Management:** `Jira`, `Trello`
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Highlights
+
+- **Open Source Contributions:** Actively contribute to various open-source projects.
+- **AI Projects:** Developed intelligent systems for predictive analytics and automation.
+- **Mobile Applications:** Built user-friendly Android applications with seamless UX/UI.
+
+---
+
+## 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamddobson3&show_icons=true&theme=radical)
 
 ---
 
-## 💌 Contact Me
-- ✉️ Email: [satoshiengineer92@gmail.com](mailto:satoshiengineer92@gmail.com)
-- 🐱 GitHub: [williamddobson3](https://github.com/williamddobson3)
-- 📲 Telegram: [@ErosPhoenix](https://t.me/ErosPhoenix)
-- 🎮 Discord: `cupid076831`
+## 📬 Contact Me
+
+- **Email:** [satoshiengineer92@gmail.com](mailto:satoshiengineer92@gmail.com)
+- **GitHub:** [williamddobson3](https://github.com/williamddobson3)
+- **Telegram:** [@ErosPhoenix](https://t.me/ErosPhoenix)
+- **Discord:** `cupid076831`
 
 ---
 
