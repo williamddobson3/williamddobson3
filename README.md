@@ -1,6 +1,6 @@
 <!-- 🌌 CINEMATIC HEADER -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/satomune-dev/satomune-dev/main/header-banner.png](https://w0.peakpx.com/wallpaper/497/154/HD-wallpaper-ai-in-app-development-techniques-to-drive-transformation-artificial-intelligence-ai-in-mobile-app-development-ai-in-mobile-apps-ai-in-app-development.jpg)" 
+  <img src="https://w0.peakpx.com/wallpaper/497/154/HD-wallpaper-ai-in-app-development-techniques-to-drive-transformation-artificial-intelligence-ai-in-mobile-app-development-ai-in-mobile-apps-ai-in-app-development.jpg" 
        alt="AI × Full-Stack × Mobile Engineer"
        style="width:100%; max-height:400px; object-fit:cover; border-radius:20px; box-shadow:0 0 40px rgba(0,0,0,0.5);" />
 </p>
